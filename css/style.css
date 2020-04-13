@@ -1,0 +1,29 @@
+body{
+  font-family: Verdana;
+}
+
+.wikihow{
+  margin-right: 1000px;
+}
+
+.navbar {
+  background-color: #93b874;
+}
+
+.quem-somos{
+  background-color: #181818;
+  color: #FFF;
+}
+
+.margin{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+.parceiros{
+  background-color: rosybrown;
+   
+}
+.bg-footer{
+  background: rosybrown;
+}
+
